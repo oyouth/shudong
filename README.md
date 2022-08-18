@@ -70,7 +70,8 @@
 ### 三、主要项目清单
 | 名目 | 仓库 |
 | ---- | ---- |
-|      |      |
+|   数据集   |    https://github.com/oyouth/dataset  |
+|   采集脚本   |   https://github.com/oyouth/collect  |
 ### 四、贡献者
 | 名称 | 描述 |
 | ---- | ---- |
