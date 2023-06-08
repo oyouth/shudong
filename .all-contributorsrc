@@ -17,6 +17,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "yangli-os",
+      "name": "YangLi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47737324?v=4",
+      "profile": "http://yangli-os.github.io",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
