@@ -73,10 +73,16 @@
 | ---- | ---- |
 |   数据集   |    https://github.com/oyouth/dataset  |
 |   采集脚本   |   https://github.com/oyouth/collect  |
-### 四、贡献者
-| 名称 | 描述 |
-| ---- | ---- |
-|      |      |
+### 四、贡献者（Contributors）
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ### 五、交流群组
 | 群组      | 入口                                                                                                             |
 | --------- | ---------------------------------------------------------------------------------------------------------------- |
