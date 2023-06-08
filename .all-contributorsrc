@@ -17,6 +17,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "csliubo",
+      "name": "csliubo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1547618?v=4",
+      "profile": "https://github.com/csliubo",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
